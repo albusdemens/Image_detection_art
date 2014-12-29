@@ -1,6 +1,6 @@
 # God mining
 
-28 December 2014, Alberto Boem and Alberto Cereser
+## 28 December 2014, Alberto Boem and Alberto Cereser
 
 This is a project to detect God in artpieces and everyday life. 
 
