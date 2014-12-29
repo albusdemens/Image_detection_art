@@ -1,4 +1,4 @@
-*** God mining ***
+**God mining**
 
 28 December 2014, Alberto Boem and Alberto Cereser
 
